@@ -1,42 +1,32 @@
-
+/**
+  * @name MomoTalk (Dark Mode)
+  * @author yumemiya
+  * @version 1.0
+  * @description A theme based on the MomoTalk app from the Blue Archive Game! Now in Dark Mode!
+  * @source https://github.com/DevEvil99/DarkPlus-Discord-Theme
+*/
 
 /* Change Colors Here!!!! */
 :root {
-	--background-primary: #FFFFFF;
-	
-	--momotalkbanner: #FB90A4;
-	
+	--background-primary: #222533;
+	--momotalkbanner: #E56072;
 	--senseimessagebubble: #4A8AC8;
 	--messagebubble: #4C5B6F;
-	
 	--text-link: #CCD3FF;
-	
 	--messagefontcolor: #FFFFFF;
-	
-	--username: #3F444A;
-	
-	--sidebar: #505C72;
-	
-	--topbar: #E7F0F7;
-	
+	--username: #8A8EAD;
+	--sidebar: #2a2e40;
+	--topbar: #191B33;
 	--searchbars: #303C51;
-
 	--callcolor: #505C72;
 	--callimage: url('your image url here.png');
-
 	--callbuttons: #303C51;
 	--hangup: #FB90A4;
-	
 	--bgimage: url('your image url here.png');
-
-	--settingsfontcolor: #000000;
-	
-
+	--settingsfontcolor: #FFFFFF;
+	--background-mentioned: #210317;
+	--background-mentioned-hover: #210011;
 }
-
-
-
-
 
 
 /*Home Image*/
@@ -233,7 +223,7 @@ display:none;
 }
 
 .scroller_bf550a {
-  background-image: url('https://i.imgur.com/OJgUygB.png'); 
+  background-image: url('https://i.imgur.com/kluNqJd.png'); 
   background-size: contain; 
   background-repeat: no-repeat; 
   background-position: bottom; 
