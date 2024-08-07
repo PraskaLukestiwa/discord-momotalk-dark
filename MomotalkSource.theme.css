@@ -35,7 +35,7 @@
 }
 /*replace with colour if you want a colour behind your image */
 #app-mount .tutorialContainer_f9623d .childWrapper_f90abb {
-    background-image: url("https://i.imgur.com/UEiRGq4.png");
+    background-image: url("https://raw.githubusercontent.com/PraskaLukestiwa/discord-momotalk-dark/main/image/icon.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -196,7 +196,7 @@
     display: inline-block;
     width: 150px;
     height: 150px;
-    background-image: url(https://i.imgur.com/7PHPCpk.png);
+    background-image: url("https://raw.githubusercontent.com/PraskaLukestiwa/discord-momotalk-dark/main/image/top.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -213,7 +213,7 @@
 }
 
 .scroller_bf550a {
-    background-image: url("https://i.imgur.com/kluNqJd.png");
+    background-image: url("https://raw.githubusercontent.com/PraskaLukestiwa/discord-momotalk-dark/main/image/plana.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: bottom;
