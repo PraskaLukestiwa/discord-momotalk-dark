@@ -11,6 +11,7 @@
 ● 3. Download <a href="https://github.com/PraskaLukestiwa/discord-momotalk-dark/archive/refs/heads/main.zip">MomotalkSource.theme.css</a><br>
 ● 4. Go into Settings > Themes > Open Themes folder, and put MomotalkSource.theme.css into themes folder<br>
 ● 5. On Discord, press the "Load Missing Themes" button, and enable it!<br>
+● 6. Alternatively, instead downloading the theme, you can put this link to Online Themes: <pre>https://raw.githubusercontent.com/PraskaLukestiwa/discord-momotalk-dark/main/MomotalkSource.theme.css</pre><br>
 
 # FORK CHANGES
 ● Replaced Arona with Plana instead<br>
