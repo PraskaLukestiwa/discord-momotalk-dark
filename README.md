@@ -3,7 +3,7 @@
 
 <img align="center" src="https://github.com/MiyakuKage/discord-momotalk/blob/main/misc/dark.png">
 
-<p>Fork from https://github.com/MiyakuKage/discord-momotalk/tree/main<br>Fork by PraskaLukestiwa</p>
+<p>Forked from https://github.com/MiyakuKage/discord-momotalk</p>
 
 # HOW TO INSTALL
 ● 1. Install the Discord Desktop App, then the Vencord mod for it. (Not compatible with BetterDiscord for now!)<br>
