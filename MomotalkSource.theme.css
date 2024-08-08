@@ -566,6 +566,9 @@
 .clickable_d808b0 {
     background-color: var(--sidebar) !important;
 }
+.selected_d808b0 {
+    background-color: #68798d !important;
+}
 
 /*Minor color fix: Server list*/
 .scrollerBase_c49869 {
