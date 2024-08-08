@@ -558,3 +558,16 @@
     margin-left: auto;
     margin-right: 30px;
 }
+
+/*Minor color fix: Server member list*/
+.customTheme_eed6a8 {
+    background-color: var(--sidebar) !important;
+}
+.clickable_d808b0 {
+    background-color: var(--sidebar) !important;
+}
+
+/*Minor color fix: Server list*/
+.scrollerBase_c49869 {
+    background-color: var(--background-primary) !important;
+}
