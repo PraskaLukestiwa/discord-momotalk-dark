@@ -17,4 +17,4 @@
 ● Replaced Arona with Plana instead<br>
 ● Changed sidebar color<br>
 ● Replaced imgur-hosted image to github-hosted image<br>
-● Friends tab color fix
+● Friends and Server List tab color fix
