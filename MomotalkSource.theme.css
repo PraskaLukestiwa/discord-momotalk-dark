@@ -575,9 +575,11 @@
     background-color: var(--background-primary) !important;
 }
 
-/* Remove arrow on chat reply */
-.repliedMessage_f9f2ca {
-    &::before {
-        display: none;
-    }
+/* move the reply arrow to the right when the user's replying */
+[data-is-self="true"] .repliedMessage_f9f2ca:before {
+    right: calc(-1*(.85* var(--avatar-size) + var(--gutter)));
+    left: calc((6.9* var(--avatar-size) + var(--gutter)));
+    border-width: var(--spine-width) var(--spine-width) 0 0;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 6px;
 }
