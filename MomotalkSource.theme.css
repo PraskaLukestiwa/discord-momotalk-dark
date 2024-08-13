@@ -574,3 +574,10 @@
 .scrollerBase_c49869 {
     background-color: var(--background-primary) !important;
 }
+
+/* Remove arrow on chat reply */
+.repliedMessage_f9f2ca {
+    &::before {
+        display: none;
+    }
+}
