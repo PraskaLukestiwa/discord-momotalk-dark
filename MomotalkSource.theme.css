@@ -583,3 +583,8 @@
     border-top-left-radius: 0px;
     border-top-right-radius: 6px;
 }
+
+/* fix username color text Friends list */
+.username_f3939d {
+    color: var(--username) !important;
+}
